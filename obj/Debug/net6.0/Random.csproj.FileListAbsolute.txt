@@ -1,0 +1,15 @@
+C:\Vs code\Random\bin\Debug\net6.0\Random.exe
+C:\Vs code\Random\bin\Debug\net6.0\Random.deps.json
+C:\Vs code\Random\bin\Debug\net6.0\Random.runtimeconfig.json
+C:\Vs code\Random\bin\Debug\net6.0\Random.dll
+C:\Vs code\Random\bin\Debug\net6.0\Random.pdb
+C:\Vs code\Random\obj\Debug\net6.0\Random.csproj.AssemblyReference.cache
+C:\Vs code\Random\obj\Debug\net6.0\Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vs code\Random\obj\Debug\net6.0\Random.AssemblyInfoInputs.cache
+C:\Vs code\Random\obj\Debug\net6.0\Random.AssemblyInfo.cs
+C:\Vs code\Random\obj\Debug\net6.0\Random.csproj.CoreCompileInputs.cache
+C:\Vs code\Random\obj\Debug\net6.0\Random.dll
+C:\Vs code\Random\obj\Debug\net6.0\refint\Random.dll
+C:\Vs code\Random\obj\Debug\net6.0\Random.pdb
+C:\Vs code\Random\obj\Debug\net6.0\Random.genruntimeconfig.cache
+C:\Vs code\Random\obj\Debug\net6.0\ref\Random.dll
